@@ -1,0 +1,3055 @@
+{
+  "statuses":  [
+     {
+      "created_at": "Sun Feb 19 20:57:03 +0000 2017",
+      "id": 833420153597677600,
+      "id_str": "833420153597677568",
+      "text": "RT @Irelandcricket: Some pics of @ShillersC's career after her retirement from ODI cricket. ?? \n\nShe will be missed in the @IrishWomensCric…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Irelandcricket",
+            "name": "Cricket Ireland",
+            "id": 221580536,
+            "id_str": "221580536",
+            "indices":  [
+              3,
+              18
+            ]
+          },
+           {
+            "screen_name": "ShillersC",
+            "name": "Clare Shillington",
+            "id": 168422962,
+            "id_str": "168422962",
+            "indices":  [
+              33,
+              43
+            ]
+          },
+           {
+            "screen_name": "IrishWomensCric",
+            "name": "IrishWomensCricket",
+            "id": 138533660,
+            "id_str": "138533660",
+            "indices":  [
+              122,
+              138
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 489937102,
+        "id_str": "489937102",
+        "name": "Laura Caughey",
+        "screen_name": "el_cee86",
+        "location": "Belfast / London",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 952,
+        "friends_count": 703,
+        "listed_count": 27,
+        "created_at": "Sun Feb 12 02:13:51 +0000 2012",
+        "favourites_count": 17749,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14178,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/826844670479171585/NefvxXFp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/826844670479171585/NefvxXFp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/489937102/1485917259",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 20:20:44 +0000 2017",
+        "id": 833411012736974800,
+        "id_str": "833411012736974849",
+        "text": "Some pics of @ShillersC's career after her retirement from ODI cricket. ?? \n\nShe will be missed in the… https://t.co/1c4RhfCNVP",
+        "truncated": true,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "ShillersC",
+              "name": "Clare Shillington",
+              "id": 168422962,
+              "id_str": "168422962",
+              "indices":  [
+                13,
+                23
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "https://t.co/1c4RhfCNVP",
+              "expanded_url": "https://twitter.com/i/web/status/833411012736974849",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices":  [
+                103,
+                126
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 221580536,
+          "id_str": "221580536",
+          "name": "Cricket Ireland",
+          "screen_name": "Irelandcricket",
+          "location": "All Ireland",
+          "description": "?Official Twitter Account of Cricket Ireland ??? Home of Irish Cricket on Twitter. Facebook: https://t.co/T6ZSGRW7fj YouTube: Cricket Ireland TV",
+          "url": "https://t.co/9LggE9lycg",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/9LggE9lycg",
+                  "expanded_url": "http://www.cricketireland.ie",
+                  "display_url": "cricketireland.ie",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/T6ZSGRW7fj",
+                  "expanded_url": "http://bit.ly/2gx6YxB",
+                  "display_url": "bit.ly/2gx6YxB",
+                  "indices":  [
+                    92,
+                    115
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 109760,
+          "friends_count": 514,
+          "listed_count": 562,
+          "created_at": "Wed Dec 01 01:27:09 +0000 2010",
+          "favourites_count": 6993,
+          "utc_offset": 0,
+          "time_zone": "Dublin",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 42937,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/565268023737466880/WAKYnS7M.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/565268023737466880/WAKYnS7M.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1213084582/index_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213084582/index_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/221580536/1479726840",
+          "profile_link_color": "19CF86",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:55 +0000 2017",
+      "id": 833420121423147000,
+      "id_str": "833420121423147008",
+      "text": "RT @thePSLt20: 'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cricket' - @…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "thePSLt20",
+            "name": "PakistanSuperLeague",
+            "id": 3448716797,
+            "id_str": "3448716797",
+            "indices":  [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 2977034569,
+        "id_str": "2977034569",
+        "name": "Waiza Zalmi",
+        "screen_name": "waizaahmad",
+        "location": "Peshawar, Pakistan",
+        "description": "#KraSha ??",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 8421,
+        "friends_count": 488,
+        "listed_count": 17,
+        "created_at": "Mon Jan 12 15:16:15 +0000 2015",
+        "favourites_count": 36229,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69299,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/829660602255675393/epJ2R80a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/829660602255675393/epJ2R80a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2977034569/1487444616",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 20:52:08 +0000 2017",
+        "id": 833418917045481500,
+        "id_str": "833418917045481474",
+        "text": "'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cri… https://t.co/VWdcsaQIg7",
+        "truncated": true,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/VWdcsaQIg7",
+              "expanded_url": "https://twitter.com/i/web/status/833418917045481474",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices":  [
+                121,
+                144
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 3448716797,
+          "id_str": "3448716797",
+          "name": "PakistanSuperLeague",
+          "screen_name": "thePSLt20",
+          "location": "Pakistan",
+          "description": "Official Twitter account of the Pakistan Super League. https://t.co/30ynTC4AaD | https://t.co/T8qeeR95M7 | https://t.co/rN9CTcKwL8 | instagram: /thepsl",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/30ynTC4AaD",
+                  "expanded_url": "http://psl-t20.com",
+                  "display_url": "psl-t20.com",
+                  "indices":  [
+                    56,
+                    79
+                  ]
+                },
+                 {
+                  "url": "https://t.co/T8qeeR95M7",
+                  "expanded_url": "http://facebook.com/thePSL",
+                  "display_url": "facebook.com/thePSL",
+                  "indices":  [
+                    82,
+                    105
+                  ]
+                },
+                 {
+                  "url": "https://t.co/rN9CTcKwL8",
+                  "expanded_url": "http://youtube.com/psl",
+                  "display_url": "youtube.com/psl",
+                  "indices":  [
+                    108,
+                    131
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 237225,
+          "friends_count": 115,
+          "listed_count": 264,
+          "created_at": "Wed Aug 26 16:33:48 +0000 2015",
+          "favourites_count": 158,
+          "utc_offset": 18000,
+          "time_zone": "Karachi",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 4566,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3448716797/1486713837",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place":  {
+          "id": "00ecb59b0dad186e",
+          "url": "https://api.twitter.com/1.1/geo/id/00ecb59b0dad186e.json",
+          "place_type": "admin",
+          "name": "Sharjah",
+          "full_name": "Sharjah, United Arab Emirates",
+          "country_code": "AE",
+          "country": "United Arab Emirates",
+          "contained_within":  [],
+          "bounding_box":  {
+            "type": "Polygon",
+            "coordinates":  [
+               [
+                 [
+                  55.0091271,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  25.8997649
+                ],
+                 [
+                  55.0091271,
+                  25.8997649
+                ]
+              ]
+            ]
+          },
+          "attributes":  {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 102,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:49 +0000 2017",
+      "id": 833420094172590100,
+      "id_str": "833420094172590080",
+      "text": "’I was young and childish’: LIKE so many members of the Test squad that embarked on Australia’s ill-fated…… https://t.co/bjeqKkjZir",
+      "truncated": true,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/bjeqKkjZir",
+            "expanded_url": "https://twitter.com/i/web/status/833420094172590080",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices":  [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="https://dlvrit.com/" rel="nofollow">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 916866408,
+        "id_str": "916866408",
+        "name": "Townsville Buzz",
+        "screen_name": "townsvillebuzz",
+        "location": "Townsville, Australia",
+        "description": "Curating the best media feeds in Townsville. Part of the 400-city The Breaking News Network, the largest community news network supporting the social good",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 175,
+        "friends_count": 36,
+        "listed_count": 9,
+        "created_at": "Wed Oct 31 13:20:10 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22957,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000010398880/77060c6f93f82a55211ffd83647408fd.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000010398880/77060c6f93f82a55211ffd83647408fd.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/764488384446291968/9qaND755_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/764488384446291968/9qaND755_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/916866408/1471103253",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:48 +0000 2017",
+      "id": 833420089378631700,
+      "id_str": "833420089378631680",
+      "text": "RT @thePSLt20: 'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cricket' - @…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "thePSLt20",
+            "name": "PakistanSuperLeague",
+            "id": 3448716797,
+            "id_str": "3448716797",
+            "indices":  [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 387133594,
+        "id_str": "387133594",
+        "name": "Samir",
+        "screen_name": "SamirRajani",
+        "location": "",
+        "description": "This too shall pass.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 474,
+        "friends_count": 752,
+        "listed_count": 13,
+        "created_at": "Sat Oct 08 14:39:58 +0000 2011",
+        "favourites_count": 8831,
+        "utc_offset": 18000,
+        "time_zone": "Karachi",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15709,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/830181365194817536/dAoGcOYD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/830181365194817536/dAoGcOYD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/387133594/1487434242",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 20:52:08 +0000 2017",
+        "id": 833418917045481500,
+        "id_str": "833418917045481474",
+        "text": "'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cri… https://t.co/VWdcsaQIg7",
+        "truncated": true,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/VWdcsaQIg7",
+              "expanded_url": "https://twitter.com/i/web/status/833418917045481474",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices":  [
+                121,
+                144
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 3448716797,
+          "id_str": "3448716797",
+          "name": "PakistanSuperLeague",
+          "screen_name": "thePSLt20",
+          "location": "Pakistan",
+          "description": "Official Twitter account of the Pakistan Super League. https://t.co/30ynTC4AaD | https://t.co/T8qeeR95M7 | https://t.co/rN9CTcKwL8 | instagram: /thepsl",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/30ynTC4AaD",
+                  "expanded_url": "http://psl-t20.com",
+                  "display_url": "psl-t20.com",
+                  "indices":  [
+                    56,
+                    79
+                  ]
+                },
+                 {
+                  "url": "https://t.co/T8qeeR95M7",
+                  "expanded_url": "http://facebook.com/thePSL",
+                  "display_url": "facebook.com/thePSL",
+                  "indices":  [
+                    82,
+                    105
+                  ]
+                },
+                 {
+                  "url": "https://t.co/rN9CTcKwL8",
+                  "expanded_url": "http://youtube.com/psl",
+                  "display_url": "youtube.com/psl",
+                  "indices":  [
+                    108,
+                    131
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 237225,
+          "friends_count": 115,
+          "listed_count": 264,
+          "created_at": "Wed Aug 26 16:33:48 +0000 2015",
+          "favourites_count": 158,
+          "utc_offset": 18000,
+          "time_zone": "Karachi",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 4566,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3448716797/1486713837",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place":  {
+          "id": "00ecb59b0dad186e",
+          "url": "https://api.twitter.com/1.1/geo/id/00ecb59b0dad186e.json",
+          "place_type": "admin",
+          "name": "Sharjah",
+          "full_name": "Sharjah, United Arab Emirates",
+          "country_code": "AE",
+          "country": "United Arab Emirates",
+          "contained_within":  [],
+          "bounding_box":  {
+            "type": "Polygon",
+            "coordinates":  [
+               [
+                 [
+                  55.0091271,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  25.8997649
+                ],
+                 [
+                  55.0091271,
+                  25.8997649
+                ]
+              ]
+            ]
+          },
+          "attributes":  {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 102,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:46 +0000 2017",
+      "id": 833420082831319000,
+      "id_str": "833420082831319042",
+      "text": "Lala u r beauty.\nCricket is my life.\nI am Pathan born for fight. \nI accept my age is little high.\nbut mind it I am not die.",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="https://mobile.twitter.com" rel="nofollow">Mobile Web (M2)</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 833418577982140400,
+        "id_str": "833418577982140416",
+        "name": "Sajid kamal",
+        "screen_name": "Sajidka67415689",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 3,
+        "listed_count": 0,
+        "created_at": "Sun Feb 19 20:50:47 +0000 2017",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:40 +0000 2017",
+      "id": 833420058256867300,
+      "id_str": "833420058256867328",
+      "text": "RT @Saj_PakPassion: On this day 1999. A riot in Kolkata after Tendulkar's run out as Pakistan closed in on a remarkable victory https://t.c…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Saj_PakPassion",
+            "name": "Saj Sadiq",
+            "id": 300405606,
+            "id_str": "300405606",
+            "indices":  [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 132154104,
+        "id_str": "132154104",
+        "name": "Soch",
+        "screen_name": "DjAman",
+        "location": "United States",
+        "description": "X-Producer&Host #DesiFM-Radio #CoffeeHolic #GymHolic #Pakistani by descent favorite sexual position human style.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2207,
+        "friends_count": 83,
+        "listed_count": 40,
+        "created_at": "Mon Apr 12 12:37:17 +0000 2010",
+        "favourites_count": 83271,
+        "utc_offset": -36000,
+        "time_zone": "Hawaii",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 50389,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "64A155",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000052205746/42d5457585cf1755da61f3a12f53065e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000052205746/42d5457585cf1755da61f3a12f53065e.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/832569479091589122/mmIgOVaD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/832569479091589122/mmIgOVaD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/132154104/1487515060",
+        "profile_link_color": "4D8F6B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 09:06:36 +0000 2017",
+        "id": 833241362317328400,
+        "id_str": "833241362317328385",
+        "text": "On this day 1999. A riot in Kolkata after Tendulkar's run out as Pakistan closed in on a remarkable victory https://t.co/Cv4RbK609E #Cricket",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Cricket",
+              "indices":  [
+                132,
+                140
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/Cv4RbK609E",
+              "expanded_url": "https://www.youtube.com/watch?v=BqaWpjASeYU",
+              "display_url": "youtube.com/watch?v=BqaWpj…",
+              "indices":  [
+                108,
+                131
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 300405606,
+          "id_str": "300405606",
+          "name": "Saj Sadiq",
+          "screen_name": "Saj_PakPassion",
+          "location": "",
+          "description": "Chief Editor of the world's most popular Pakistan cricket website @PakPassion. Also write for @SkyCricket & @TheCricketPaper",
+          "url": "http://t.co/dMD9Jb8Muw",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/dMD9Jb8Muw",
+                  "expanded_url": "http://www.pakpassion.net",
+                  "display_url": "pakpassion.net",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 55054,
+          "friends_count": 417,
+          "listed_count": 309,
+          "created_at": "Tue May 17 18:18:02 +0000 2011",
+          "favourites_count": 1551,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 30297,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "022330",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685481193/5055c4df6522185c5ba38ab3917aaf54.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685481193/5055c4df6522185c5ba38ab3917aaf54.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1619237597/cricket-stumps_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1619237597/cricket-stumps_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/300405606/1353702928",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 29,
+        "favorite_count": 61,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 29,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:39 +0000 2017",
+      "id": 833420052418461700,
+      "id_str": "833420052418461697",
+      "text": "RT @feroz922: Shoaib Malik has become the 5th highest runscorer in T20 cricket. Only Gayle, Hodge, McCullum & Warner have more runs #Cricke…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "feroz922",
+            "name": "Dr. Rihab khan",
+            "id": 379001937,
+            "id_str": "379001937",
+            "indices":  [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 179009173,
+        "id_str": "179009173",
+        "name": "Khalid",
+        "screen_name": "LeoXCh",
+        "location": "jeddah,Islamabad, Bahawalpur",
+        "description": "A Proud Pakistani,simple, funny and Nature-Loving. Political Views: It Sucks , Live and work in jeddah-Saudi Arabia. Origin:pakistan",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 49,
+        "friends_count": 229,
+        "listed_count": 3,
+        "created_at": "Mon Aug 16 07:43:54 +0000 2010",
+        "favourites_count": 355,
+        "utc_offset": 10800,
+        "time_zone": "Riyadh",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1424,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "31424A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000051378888/8c7e1faf96955ecb0ecf2e31c6330aad.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000051378888/8c7e1faf96955ecb0ecf2e31c6330aad.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/807977805858357248/mABcYduV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/807977805858357248/mABcYduV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/179009173/1448794593",
+        "profile_link_color": "2E5461",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 17:41:01 +0000 2017",
+        "id": 833370819166355500,
+        "id_str": "833370819166355457",
+        "text": "Shoaib Malik has become the 5th highest runscorer in T20 cricket. Only Gayle, Hodge, McCullum & Warner have more runs #Cricket #PSL2017",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Cricket",
+              "indices":  [
+                122,
+                130
+              ]
+            },
+             {
+              "text": "PSL2017",
+              "indices":  [
+                131,
+                139
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 379001937,
+          "id_str": "379001937",
+          "name": "Dr. Rihab khan",
+          "screen_name": "feroz922",
+          "location": "England, United Kingdom",
+          "description": "Cricket journalist & statistician. Worked with Ten Sports as TV stats woman; have written for Cricinfo, PCB, ICC, Criclens. Tweets are personal opinion.",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 4518,
+          "friends_count": 197,
+          "listed_count": 18,
+          "created_at": "Sat Sep 24 05:50:27 +0000 2011",
+          "favourites_count": 6242,
+          "utc_offset": 18000,
+          "time_zone": "Karachi",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 9411,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/833375929632186370/GR3ac790_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/833375929632186370/GR3ac790_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/379001937/1474871916",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "99CC33",
+          "profile_text_color": "3E4415",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:36 +0000 2017",
+      "id": 833420040598847500,
+      "id_str": "833420040598847492",
+      "text": "@Rebecca_White1 this is the true meaning of the spirit of cricket",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Rebecca_White1",
+            "name": "Becca White",
+            "id": 47099476,
+            "id_str": "47099476",
+            "indices":  [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": 833404390665048000,
+      "in_reply_to_status_id_str": "833404390665048064",
+      "in_reply_to_user_id": 47099476,
+      "in_reply_to_user_id_str": "47099476",
+      "in_reply_to_screen_name": "Rebecca_White1",
+      "user":  {
+        "id": 380329085,
+        "id_str": "380329085",
+        "name": "Matt Nichols",
+        "screen_name": "mwgnichols",
+        "location": " London",
+        "description": "Exeter Uni History grad and cricket badger. Work in sport. My views etc etc",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 390,
+        "friends_count": 875,
+        "listed_count": 10,
+        "created_at": "Mon Sep 26 13:28:27 +0000 2011",
+        "favourites_count": 593,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5338,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747495222196711424/nZ9A_ZQw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747495222196711424/nZ9A_ZQw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/380329085/1464727073",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:35 +0000 2017",
+      "id": 833420034592604200,
+      "id_str": "833420034592604164",
+      "text": "@SAfridiOfficial has announced retirement from T20's as well & no plans fr coming bck in International Cricket.Will continue to play fr #PZ.",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "PZ",
+            "indices":  [
+              140,
+              143
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "SAfridiOfficial",
+            "name": "Shahid Afridi",
+            "id": 1133920393,
+            "id_str": "1133920393",
+            "indices":  [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 1133920393,
+      "in_reply_to_user_id_str": "1133920393",
+      "in_reply_to_screen_name": "SAfridiOfficial",
+      "user":  {
+        "id": 2879709882,
+        "id_str": "2879709882",
+        "name": "Sabuktageen Afridi",
+        "screen_name": "SabukAfridi",
+        "location": "Islamabad, Pakistan",
+        "description": "I am a loving human who believe in truth, love nature & show real humanity character.Peace is my job which I https://t.co/BAHh6pozCY & release +ve waves around!",
+        "url": "https://t.co/S2HjI2rG31",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/S2HjI2rG31",
+                "expanded_url": "http://facebook.com/MeSabuktageenAfridi",
+                "display_url": "facebook.com/MeSabuktageenA…",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "https://t.co/BAHh6pozCY",
+                "expanded_url": "http://spread.Smile",
+                "display_url": "spread.Smile",
+                "indices":  [
+                  109,
+                  132
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 970,
+        "friends_count": 267,
+        "listed_count": 35,
+        "created_at": "Mon Oct 27 16:09:17 +0000 2014",
+        "favourites_count": 22964,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23959,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/828608274748567552/Mmut5frU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/828608274748567552/Mmut5frU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2879709882/1463262497",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:34 +0000 2017",
+      "id": 833420032650641400,
+      "id_str": "833420032650641408",
+      "text": "RT @Edwardian842: Low intellect. Mix cricket with political views of people ?? https://t.co/DpEeMCeBES",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Edwardian842",
+            "name": "Liaqat Hussain",
+            "id": 122639809,
+            "id_str": "122639809",
+            "indices":  [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/DpEeMCeBES",
+            "expanded_url": "https://twitter.com/imiahmadriaz/status/833418468221452289",
+            "display_url": "twitter.com/imiahmadriaz/s…",
+            "indices":  [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 1457411587,
+        "id_str": "1457411587",
+        "name": "Kashif",
+        "screen_name": "MrUnknwn_",
+        "location": "NY ",
+        "description": "Don't Blush Baby!",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1193,
+        "friends_count": 183,
+        "listed_count": 45,
+        "created_at": "Sat May 25 16:10:08 +0000 2013",
+        "favourites_count": 5746,
+        "utc_offset": 18000,
+        "time_zone": "Karachi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 104792,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E61010",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/475715508675690496/RhFTddNQ.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/475715508675690496/RhFTddNQ.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/833377048865419264/a_GbQVlV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/833377048865419264/a_GbQVlV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457411587/1477609384",
+        "profile_link_color": "00CC00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 20:54:03 +0000 2017",
+        "id": 833419398320885800,
+        "id_str": "833419398320885760",
+        "text": "Low intellect. Mix cricket with political views of people ?? https://t.co/DpEeMCeBES",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/DpEeMCeBES",
+              "expanded_url": "https://twitter.com/imiahmadriaz/status/833418468221452289",
+              "display_url": "twitter.com/imiahmadriaz/s…",
+              "indices":  [
+                60,
+                83
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 122639809,
+          "id_str": "122639809",
+          "name": "Liaqat Hussain",
+          "screen_name": "Edwardian842",
+          "location": "Spain",
+          "description": "Seedhi baat No bakwas. Allergic to BS. Apolitical in Political talks. #Khattak. #Cricket fan. #Aries is ?. #Parineeti is ?. #Engineering is ??.",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 4888,
+          "friends_count": 197,
+          "listed_count": 42,
+          "created_at": "Sat Mar 13 11:21:18 +0000 2010",
+          "favourites_count": 80442,
+          "utc_offset": 18000,
+          "time_zone": "Karachi",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 172325,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "3B94D9",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698042163/3944e6dfffad11c963d11aa44c930278.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698042163/3944e6dfffad11c963d11aa44c930278.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/832980496913223681/cVxCBZ6p_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/832980496913223681/cVxCBZ6p_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/122639809/1446167379",
+          "profile_link_color": "9266CC",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 833418468221452300,
+        "quoted_status_id_str": "833418468221452289",
+        "quoted_status":  {
+          "created_at": "Sun Feb 19 20:50:21 +0000 2017",
+          "id": 833418468221452300,
+          "id_str": "833418468221452289",
+          "text": "Its very sad and harsh if one hates and curse PZ just because of Afridis ??. Bet laga lo fawad rana bhi patwari hi nikle ga. So?",
+          "truncated": false,
+          "entities":  {
+            "hashtags":  [],
+            "symbols":  [],
+            "user_mentions":  [],
+            "urls":  []
+          },
+          "metadata":  {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user":  {
+            "id": 264333650,
+            "id_str": "264333650",
+            "name": "Immad Ahmad",
+            "screen_name": "imiahmadriaz",
+            "location": "Peshawar-Islamabad, Pakistan",
+            "description": "Entrepreneur, Engineer #UETPeshawar, #NUST. Founder @TLPakistani. #IK and MUFC Supporter!",
+            "url": "https://t.co/Mn5GFpwCT8",
+            "entities":  {
+              "url":  {
+                "urls":  [
+                   {
+                    "url": "https://t.co/Mn5GFpwCT8",
+                    "expanded_url": "http://thelogicalpakistani.com",
+                    "display_url": "thelogicalpakistani.com",
+                    "indices":  [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description":  {
+                "urls":  []
+              }
+            },
+            "protected": false,
+            "followers_count": 3374,
+            "friends_count": 467,
+            "listed_count": 37,
+            "created_at": "Fri Mar 11 18:45:44 +0000 2011",
+            "favourites_count": 3525,
+            "utc_offset": 18000,
+            "time_zone": "Karachi",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 73997,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "030100",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000132839783/lci-iG6n.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000132839783/lci-iG6n.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/827560475118276608/377NzdBJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/827560475118276608/377NzdBJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/264333650/1411261505",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 833418468221452300,
+      "quoted_status_id_str": "833418468221452289",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:33 +0000 2017",
+      "id": 833420029299421200,
+      "id_str": "833420029299421185",
+      "text": "RT @thePSLt20: 'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cricket' - @…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "thePSLt20",
+            "name": "PakistanSuperLeague",
+            "id": 3448716797,
+            "id_str": "3448716797",
+            "indices":  [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3331182821,
+        "id_str": "3331182821",
+        "name": "HAMZA .",
+        "screen_name": "HamzaRB16",
+        "location": "Karachi, Pakistan",
+        "description": "Football Freak ?\n\nsc: hamzaleo-10",
+        "url": "https://t.co/Yi7661wvTN",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/Yi7661wvTN",
+                "expanded_url": "http://www.arynews.tv",
+                "display_url": "arynews.tv",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 337,
+        "friends_count": 252,
+        "listed_count": 1,
+        "created_at": "Wed Jun 17 10:32:34 +0000 2015",
+        "favourites_count": 5498,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5889,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/831603274662944768/X9Ny1RvV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/831603274662944768/X9Ny1RvV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3331182821/1487421794",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 20:52:08 +0000 2017",
+        "id": 833418917045481500,
+        "id_str": "833418917045481474",
+        "text": "'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cri… https://t.co/VWdcsaQIg7",
+        "truncated": true,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/VWdcsaQIg7",
+              "expanded_url": "https://twitter.com/i/web/status/833418917045481474",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices":  [
+                121,
+                144
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 3448716797,
+          "id_str": "3448716797",
+          "name": "PakistanSuperLeague",
+          "screen_name": "thePSLt20",
+          "location": "Pakistan",
+          "description": "Official Twitter account of the Pakistan Super League. https://t.co/30ynTC4AaD | https://t.co/T8qeeR95M7 | https://t.co/rN9CTcKwL8 | instagram: /thepsl",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/30ynTC4AaD",
+                  "expanded_url": "http://psl-t20.com",
+                  "display_url": "psl-t20.com",
+                  "indices":  [
+                    56,
+                    79
+                  ]
+                },
+                 {
+                  "url": "https://t.co/T8qeeR95M7",
+                  "expanded_url": "http://facebook.com/thePSL",
+                  "display_url": "facebook.com/thePSL",
+                  "indices":  [
+                    82,
+                    105
+                  ]
+                },
+                 {
+                  "url": "https://t.co/rN9CTcKwL8",
+                  "expanded_url": "http://youtube.com/psl",
+                  "display_url": "youtube.com/psl",
+                  "indices":  [
+                    108,
+                    131
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 237225,
+          "friends_count": 115,
+          "listed_count": 264,
+          "created_at": "Wed Aug 26 16:33:48 +0000 2015",
+          "favourites_count": 158,
+          "utc_offset": 18000,
+          "time_zone": "Karachi",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 4566,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3448716797/1486713837",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place":  {
+          "id": "00ecb59b0dad186e",
+          "url": "https://api.twitter.com/1.1/geo/id/00ecb59b0dad186e.json",
+          "place_type": "admin",
+          "name": "Sharjah",
+          "full_name": "Sharjah, United Arab Emirates",
+          "country_code": "AE",
+          "country": "United Arab Emirates",
+          "contained_within":  [],
+          "bounding_box":  {
+            "type": "Polygon",
+            "coordinates":  [
+               [
+                 [
+                  55.0091271,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  25.8997649
+                ],
+                 [
+                  55.0091271,
+                  25.8997649
+                ]
+              ]
+            ]
+          },
+          "attributes":  {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 102,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:31 +0000 2017",
+      "id": 833420018054488000,
+      "id_str": "833420018054488064",
+      "text": "RT @thePSLt20: 'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cricket' - @…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "thePSLt20",
+            "name": "PakistanSuperLeague",
+            "id": 3448716797,
+            "id_str": "3448716797",
+            "indices":  [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 965945040,
+        "id_str": "965945040",
+        "name": "Fahim Farooq",
+        "screen_name": "fahim_parekh",
+        "location": " Karachi Pakistan ",
+        "description": "Muslim.Pakistani ... cricket lover....10th August #Leo .....Karachi is my city.... follow me @instagram fahim_farooq",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1066,
+        "friends_count": 979,
+        "listed_count": 61,
+        "created_at": "Fri Nov 23 11:36:51 +0000 2012",
+        "favourites_count": 62581,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 102579,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/829339823131471873/oWqXsjm4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/829339823131471873/oWqXsjm4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965945040/1481628643",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 20:52:08 +0000 2017",
+        "id": 833418917045481500,
+        "id_str": "833418917045481474",
+        "text": "'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cri… https://t.co/VWdcsaQIg7",
+        "truncated": true,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/VWdcsaQIg7",
+              "expanded_url": "https://twitter.com/i/web/status/833418917045481474",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices":  [
+                121,
+                144
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 3448716797,
+          "id_str": "3448716797",
+          "name": "PakistanSuperLeague",
+          "screen_name": "thePSLt20",
+          "location": "Pakistan",
+          "description": "Official Twitter account of the Pakistan Super League. https://t.co/30ynTC4AaD | https://t.co/T8qeeR95M7 | https://t.co/rN9CTcKwL8 | instagram: /thepsl",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/30ynTC4AaD",
+                  "expanded_url": "http://psl-t20.com",
+                  "display_url": "psl-t20.com",
+                  "indices":  [
+                    56,
+                    79
+                  ]
+                },
+                 {
+                  "url": "https://t.co/T8qeeR95M7",
+                  "expanded_url": "http://facebook.com/thePSL",
+                  "display_url": "facebook.com/thePSL",
+                  "indices":  [
+                    82,
+                    105
+                  ]
+                },
+                 {
+                  "url": "https://t.co/rN9CTcKwL8",
+                  "expanded_url": "http://youtube.com/psl",
+                  "display_url": "youtube.com/psl",
+                  "indices":  [
+                    108,
+                    131
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 237225,
+          "friends_count": 115,
+          "listed_count": 264,
+          "created_at": "Wed Aug 26 16:33:48 +0000 2015",
+          "favourites_count": 158,
+          "utc_offset": 18000,
+          "time_zone": "Karachi",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 4566,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3448716797/1486713837",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place":  {
+          "id": "00ecb59b0dad186e",
+          "url": "https://api.twitter.com/1.1/geo/id/00ecb59b0dad186e.json",
+          "place_type": "admin",
+          "name": "Sharjah",
+          "full_name": "Sharjah, United Arab Emirates",
+          "country_code": "AE",
+          "country": "United Arab Emirates",
+          "contained_within":  [],
+          "bounding_box":  {
+            "type": "Polygon",
+            "coordinates":  [
+               [
+                 [
+                  55.0091271,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  25.8997649
+                ],
+                 [
+                  55.0091271,
+                  25.8997649
+                ]
+              ]
+            ]
+          },
+          "attributes":  {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 102,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:29 +0000 2017",
+      "id": 833420012840968200,
+      "id_str": "833420012840968192",
+      "text": "1. @Appollo50 MARK- You are UK, like @Steelers, but like Cricket and Soccer more, have 16 followers, spend all time RT @KTHopkins, ...",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Appollo50",
+            "name": "mark Jones",
+            "id": 352469443,
+            "id_str": "352469443",
+            "indices":  [
+              3,
+              13
+            ]
+          },
+           {
+            "screen_name": "steelers",
+            "name": "Pittsburgh Steelers",
+            "id": 19426729,
+            "id_str": "19426729",
+            "indices":  [
+              37,
+              46
+            ]
+          },
+           {
+            "screen_name": "KTHopkins",
+            "name": "Katie Hopkins",
+            "id": 21439144,
+            "id_str": "21439144",
+            "indices":  [
+              119,
+              129
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": 833332982719057900,
+      "in_reply_to_status_id_str": "833332982719057921",
+      "in_reply_to_user_id": 352469443,
+      "in_reply_to_user_id_str": "352469443",
+      "in_reply_to_screen_name": "Appollo50",
+      "user":  {
+        "id": 282411378,
+        "id_str": "282411378",
+        "name": "Rudy Taylor",
+        "screen_name": "rudytaylorlaw",
+        "location": "Texas, USA",
+        "description": "Lawyer for Chicago DOM's Crew / These trademarks are property of the DOM @StoolFrederic:#dickballers SM #ItsSoGoodToBeUs SM / I follow @barstoolsports and @cubs",
+        "url": "https://t.co/dxi02bXYel",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/dxi02bXYel",
+                "expanded_url": "https://www.facebook.com/rudytaylorlaw1/",
+                "display_url": "facebook.com/rudytaylorlaw1/",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 238,
+        "friends_count": 573,
+        "listed_count": 0,
+        "created_at": "Fri Apr 15 04:46:40 +0000 2011",
+        "favourites_count": 414,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 283,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/833277499534512128/Ej1KqWAj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/833277499534512128/Ej1KqWAj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/282411378/1487503940",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:06 +0000 2017",
+      "id": 833419915616993300,
+      "id_str": "833419915616993280",
+      "text": "RT @Magicoutinho: 'how many times have you announced your retirement from international cricket?' https://t.co/eiP6vgK0tk",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Magicoutinho",
+            "name": "ammar",
+            "id": 2462652013,
+            "id_str": "2462652013",
+            "indices":  [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls":  [],
+        "media":  [
+           {
+            "id": 833417699598467100,
+            "id_str": "833417699598467072",
+            "indices":  [
+              98,
+              121
+            ],
+            "media_url": "http://pbs.twimg.com/media/C5Dk-24XAAANV6U.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5Dk-24XAAANV6U.jpg",
+            "url": "https://t.co/eiP6vgK0tk",
+            "display_url": "pic.twitter.com/eiP6vgK0tk",
+            "expanded_url": "https://twitter.com/Magicoutinho/status/833417703947907073/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large":  {
+                "w": 1334,
+                "h": 750,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 833417703947907100,
+            "source_status_id_str": "833417703947907073",
+            "source_user_id": 2462652013,
+            "source_user_id_str": "2462652013"
+          }
+        ]
+      },
+      "extended_entities":  {
+        "media":  [
+           {
+            "id": 833417699598467100,
+            "id_str": "833417699598467072",
+            "indices":  [
+              98,
+              121
+            ],
+            "media_url": "http://pbs.twimg.com/media/C5Dk-24XAAANV6U.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5Dk-24XAAANV6U.jpg",
+            "url": "https://t.co/eiP6vgK0tk",
+            "display_url": "pic.twitter.com/eiP6vgK0tk",
+            "expanded_url": "https://twitter.com/Magicoutinho/status/833417703947907073/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large":  {
+                "w": 1334,
+                "h": 750,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 833417703947907100,
+            "source_status_id_str": "833417703947907073",
+            "source_user_id": 2462652013,
+            "source_user_id_str": "2462652013"
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 807101809,
+        "id_str": "807101809",
+        "name": "Junaid.",
+        "screen_name": "MaiJunaid",
+        "location": "K-Electric City",
+        "description": "18 | My Hobbies are Breakfast, Lunch and Dinner.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 873,
+        "friends_count": 84,
+        "listed_count": 6,
+        "created_at": "Thu Sep 06 15:54:20 +0000 2012",
+        "favourites_count": 4303,
+        "utc_offset": 18000,
+        "time_zone": "Karachi",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9074,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464053110059446273/5vWK1U7p.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464053110059446273/5vWK1U7p.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/833339078141702144/U6ZMYtcG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/833339078141702144/U6ZMYtcG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807101809/1487454443",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1A3F57",
+        "profile_text_color": "9DDD95",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 20:47:19 +0000 2017",
+        "id": 833417703947907100,
+        "id_str": "833417703947907073",
+        "text": "'how many times have you announced your retirement from international cricket?' https://t.co/eiP6vgK0tk",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [],
+          "media":  [
+             {
+              "id": 833417699598467100,
+              "id_str": "833417699598467072",
+              "indices":  [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/C5Dk-24XAAANV6U.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C5Dk-24XAAANV6U.jpg",
+              "url": "https://t.co/eiP6vgK0tk",
+              "display_url": "pic.twitter.com/eiP6vgK0tk",
+              "expanded_url": "https://twitter.com/Magicoutinho/status/833417703947907073/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1334,
+                  "h": 750,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 680,
+                  "h": 382,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities":  {
+          "media":  [
+             {
+              "id": 833417699598467100,
+              "id_str": "833417699598467072",
+              "indices":  [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/C5Dk-24XAAANV6U.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C5Dk-24XAAANV6U.jpg",
+              "url": "https://t.co/eiP6vgK0tk",
+              "display_url": "pic.twitter.com/eiP6vgK0tk",
+              "expanded_url": "https://twitter.com/Magicoutinho/status/833417703947907073/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1334,
+                  "h": 750,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 680,
+                  "h": 382,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 2462652013,
+          "id_str": "2462652013",
+          "name": "ammar",
+          "screen_name": "Magicoutinho",
+          "location": "Karachi, Pakistan",
+          "description": "an underrated meme • LFC & coldplay",
+          "url": "https://t.co/iKzuzc5gUX",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/iKzuzc5gUX",
+                  "expanded_url": "http://Instagram.com/lyfsocks/",
+                  "display_url": "Instagram.com/lyfsocks/",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 4981,
+          "friends_count": 630,
+          "listed_count": 29,
+          "created_at": "Fri Apr 25 04:07:48 +0000 2014",
+          "favourites_count": 29790,
+          "utc_offset": 18000,
+          "time_zone": "Karachi",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 101118,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "ABB8C2",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/516646098979405824/pNqYItiW.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/516646098979405824/pNqYItiW.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/813141673828093956/5MbALlz5_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/813141673828093956/5MbALlz5_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2462652013/1462263406",
+          "profile_link_color": "DD2E44",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 24,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Sun Feb 19 20:56:00 +0000 2017",
+      "id": 833419890618986500,
+      "id_str": "833419890618986499",
+      "text": "RT @thePSLt20: 'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cricket' - @…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "thePSLt20",
+            "name": "PakistanSuperLeague",
+            "id": 3448716797,
+            "id_str": "3448716797",
+            "indices":  [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://www.twitter.com" rel="nofollow">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3236784090,
+        "id_str": "3236784090",
+        "name": "Muhammad Talha Akram",
+        "screen_name": "M_TalhaOfficial",
+        "location": "Islamabad, Pakistan",
+        "description": "Adventurer || Intellectual || Debater || Aquarian | IG @M_TalhaOfficial. #TeamIK",
+        "url": "https://t.co/5EmWbVC8LI",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/5EmWbVC8LI",
+                "expanded_url": "http://www.facebook.com/MTA.Official",
+                "display_url": "facebook.com/MTA.Official",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1982,
+        "friends_count": 527,
+        "listed_count": 6,
+        "created_at": "Fri Jun 05 10:11:02 +0000 2015",
+        "favourites_count": 1884,
+        "utc_offset": 18000,
+        "time_zone": "Karachi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2369,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825809431694827521/N3U5uKmP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825809431694827521/N3U5uKmP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3236784090/1485724088",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Sun Feb 19 20:52:08 +0000 2017",
+        "id": 833418917045481500,
+        "id_str": "833418917045481474",
+        "text": "'Usama was just 1 when Shahid Afridi made his inter'l debut & today he bowled against him; that's the beauty of cri… https://t.co/VWdcsaQIg7",
+        "truncated": true,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/VWdcsaQIg7",
+              "expanded_url": "https://twitter.com/i/web/status/833418917045481474",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices":  [
+                121,
+                144
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 3448716797,
+          "id_str": "3448716797",
+          "name": "PakistanSuperLeague",
+          "screen_name": "thePSLt20",
+          "location": "Pakistan",
+          "description": "Official Twitter account of the Pakistan Super League. https://t.co/30ynTC4AaD | https://t.co/T8qeeR95M7 | https://t.co/rN9CTcKwL8 | instagram: /thepsl",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/30ynTC4AaD",
+                  "expanded_url": "http://psl-t20.com",
+                  "display_url": "psl-t20.com",
+                  "indices":  [
+                    56,
+                    79
+                  ]
+                },
+                 {
+                  "url": "https://t.co/T8qeeR95M7",
+                  "expanded_url": "http://facebook.com/thePSL",
+                  "display_url": "facebook.com/thePSL",
+                  "indices":  [
+                    82,
+                    105
+                  ]
+                },
+                 {
+                  "url": "https://t.co/rN9CTcKwL8",
+                  "expanded_url": "http://youtube.com/psl",
+                  "display_url": "youtube.com/psl",
+                  "indices":  [
+                    108,
+                    131
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 237225,
+          "friends_count": 115,
+          "listed_count": 264,
+          "created_at": "Wed Aug 26 16:33:48 +0000 2015",
+          "favourites_count": 158,
+          "utc_offset": 18000,
+          "time_zone": "Karachi",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 4566,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/676731494463889408/u-NijJbV_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3448716797/1486713837",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place":  {
+          "id": "00ecb59b0dad186e",
+          "url": "https://api.twitter.com/1.1/geo/id/00ecb59b0dad186e.json",
+          "place_type": "admin",
+          "name": "Sharjah",
+          "full_name": "Sharjah, United Arab Emirates",
+          "country_code": "AE",
+          "country": "United Arab Emirates",
+          "contained_within":  [],
+          "bounding_box":  {
+            "type": "Polygon",
+            "coordinates":  [
+               [
+                 [
+                  55.0091271,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  24.7328863
+                ],
+                 [
+                  56.3816989,
+                  25.8997649
+                ],
+                 [
+                  55.0091271,
+                  25.8997649
+                ]
+              ]
+            ]
+          },
+          "attributes":  {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 102,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.254,
+    "max_id": 833420153597677600,
+    "max_id_str": "833420153597677568",
+    "next_results": "?max_id=833419890618986498&q=cricket&include_entities=1",
+    "query": "cricket",
+    "refresh_url": "?since_id=833420153597677568&q=cricket&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
